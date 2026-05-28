@@ -14,3 +14,6 @@ Using this as a starting point: https://www.datacamp.com/tutorial/explainable-ai
 *TF-IDF: TF-IDF (Term Frequency–Inverse Document Frequency) feature extraction process. This technique transforms textual airline review data into numerical representations by measuring the importance of each term relative to its frequency in individual reviews and across the entire corpus
 
 
+4. Multipolarity
+*Inner PRTG SD – is this larger for items with multipolarity; is accuracy impacted by multipolarity
+*MAE and MSE – how far off – is it off farther for items that have multipolarity
