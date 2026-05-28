@@ -1,10 +1,11 @@
+# ABOUT Creighton Sentiment Analysis Research
 This research explores the use of LLMs for providing quantitative zero-shot sentiment analysis of implicit software desirability, 
 addressing a critical challenge in product evaluation where traditional review scores fail to capture the richness of qualitative user feedback. 
 There are several key innovations from this search, and several lines of current research that are being explored.
 
 Innovations include: 
-1) Establishing a method that provides both numerical quantitative sentiment as well as categorical sentiment, using qualitative user experience data without the need for explicit review scores,
-2) Improving the quality implicit user satisfaction methods,
+1) Establishing the sentiment analysis of user experiences (SAUX) tool that provides both numerical quantitative sentiment as well as categorical sentiment, using qualitative user experience data without the need for explicit review scores, along with explanations and confidence ratings
+2) Demonstrating how SAUX is an improvement over current implicit user satisfaction methods,
 3) Providing scaled numerical sentiment analysis, offering a nuanced understanding of user sentiment,
    along with classifying sentiment into 3 categories (positive, neutral, or negative) or classifying sentiment into 5 categories (very positive,positive, neutral, negative, or very negative),
 
