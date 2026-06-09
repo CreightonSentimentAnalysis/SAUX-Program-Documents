@@ -1,16 +1,19 @@
 To Do List:
 
-Run data both as Avg 5 and as a PRTG (for user's full response of 5 words and explanations)  on GPT5o-mini; Gemini-Flash
-Update the documentation on GitHub
+Run data both as Avg 5 and as a PRTG (for user's full response of 5 words and explanations)  on GPT5o-mini (do 3 runs each time) ; done 6.9.26
 
-do 3 runs each time. 
+put both code and results in github
+
+Run data both as Avg 5 and as a PRTG (for user's full response of 5 words and explanations)  on Gemini-Flash (do 3 runs each time)
+Update the documentation on GitHub
 
 
 SURF RQ1) Can ensembles of cost-efficient LLMs produce high quality numerical sentiment analysis, along with high quality explanations?
-SURF RQ 5) How much data do cost-efficient LLMs need to still maintain a high level of accuracy?
+
+SURF RQ 5) How much data do cost-efficient LLMs need to still maintain a high level of accuracy? (later?)
 
 Multipolarity
-*Inner PRTG SD – is this larger for items with multipolarity; is accuracy impacted by multipolarity
+*Inner PRTG SD – is this larger for items with multipolarity; is accuracy impacted by multipolarity  - think approaches to experiment
 *MAE and MSE – how far off – is it off farther for items that have multipolarity
 
 SURF RQ4) Are there certain situations where human inspection is more critical, such as when LLMs express low or even medium confidence in the evaluation? MAE is high; multimodal
