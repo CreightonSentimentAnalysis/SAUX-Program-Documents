@@ -10,6 +10,28 @@ Update the documentation on GitHub
 
 SURF RQ1) Can ensembles of cost-efficient LLMs produce high quality numerical sentiment analysis, along with high quality explanations?
 
+keep track of costs: input and output tokens; $; time to run; dates of runs; model number of LLM
+
+make the following spreadsheet (tabs): 
+for Carma PRTG with columns for:
+gold standard, ID #, answer from gpt5.4mini  (average of 3 runs), confidence value (3H,2H1M), gemini 3.1 flash-lite  (average of 3 runs), confidence value, avg of 2 LLMS
+
+make a spreadsheet for Carma Avg 5 with columns for:
+gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs), avg of 2 LLMS
+
+make a spreadsheet for ZORQ PRTG with columns for:
+gold standard, ID #, answer from gpt5.4mini  (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs),avg of 2 LLMS
+
+make a spreadsheet for ZORQ Avg 5 with columns for:
+gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs), avg of 2 LLMS
+
+---
+extract the samples based records that do not have consistent high confidence - focus - 
+
+play with using output from one, as input into another - perhaps having focus on the records that it did not have high confidence
+
+
+
 SURF RQ 5) How much data do cost-efficient LLMs need to still maintain a high level of accuracy? (later?)
 
 Multipolarity
