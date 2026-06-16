@@ -14,16 +14,19 @@ keep track of costs: input and output tokens; $; time to run; dates of runs; mod
 
 make the following spreadsheet (tabs): 
 for Carma PRTG with columns for:
-gold standard, ID #, answer from gpt5.4mini  (average of 3 runs), confidence value (3H,2H1M), gemini 3.1 flash-lite  (average of 3 runs), confidence value, avg of 2 LLMS
+gold standard, ID #, answer from gpt5.4mini  (average of 3 runs), confidence value (3H,2H1M), gemini 3.1 flash-lite  (average of 3 runs), confidence value, avg of 2 LLMS; gemini 3.5 flash and its confidence
 
 make a spreadsheet for Carma Avg 5 with columns for:
-gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs), avg of 2 LLMS
+gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs), avg of lower cost 2 LLMS; gemini 3.5 flash and its confidence
 
 make a spreadsheet for ZORQ PRTG with columns for:
-gold standard, ID #, answer from gpt5.4mini  (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs),avg of 2 LLMS
+gold standard, ID #, answer from gpt5.4mini  (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs),avg of 2 LLMS; gemini 3.5 flash and its confidence
 
 make a spreadsheet for ZORQ Avg 5 with columns for:
-gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs), avg of 2 LLMS
+gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flash-lite  (average of 3 runs), avg of 2 LLMS; gemini 3.5 flash and its confidence
+
+
+columns that Sherri will add - Mean Absolute Diffierence, Mean squared Difference between gold standard and each tool, StDev, Pierson Coefficient, t-score; average  
 
 ---
 extract the samples based records that do not have consistent high confidence - focus - 
