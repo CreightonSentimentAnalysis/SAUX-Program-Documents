@@ -41,7 +41,7 @@ Multipolarity
 *Inner PRTG SD – is this larger for items with multipolarity; is accuracy impacted by multipolarity  - think approaches to experiment
 *MAE and MSE – how far off – is it off farther for items that have multipolarity
 
-SURF RQ4) Are there certain situations where human inspection is more critical, such as when LLMs express low or even medium confidence in the evaluation? MAE is high; multimodal
+SURF RQ4) Are there certain situations where human inspection is more critical, such as when LLMs express low or even medium confidence in the evaluation? MAE is high; multipolarity
 
 Make the SAUX user interface
 SURF RQ6) What are key features needed in an automated tools for broad user-base with integrated confidence-based reviews?
