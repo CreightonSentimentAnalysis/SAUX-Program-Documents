@@ -39,13 +39,17 @@ SURF RQ 5) How much data do cost-efficient LLMs need to still maintain a high le
 
 Multipolarity
 *Inner PRTG SD – is this larger for items with multipolarity; is accuracy impacted by multipolarity  - think approaches to experiment
-*MAE and MSE – how far off – is it off farther for items that have multipolarity
+is low confidence correlated to high multipolarity? new formula
 
-SURF RQ4) Are there certain situations where human inspection is more critical, such as when LLMs express low or even medium confidence in the evaluation? MAE is high; multipolarity
+*MAD and MSD – how far off – is it off farther for items that have multipolarity
+
+SURF RQ4) Are there certain situations where human inspection is more critical, such as when LLMs express low or even medium confidence in the evaluation? MAD is high; multipolarity (later with different new datasets)
 
 Make the SAUX user interface
 SURF RQ6) What are key features needed in an automated tools for broad user-base with integrated confidence-based reviews?
 
+play with:
+using output results as input to marketing messages (including images) as well as updates/improvements to suggest based on the results.
 
 Later:
 Study Explanable AI:
