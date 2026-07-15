@@ -61,8 +61,22 @@ play with using output from one, as input into another - perhaps having focus on
 SURF RQ 5) How much data do cost-efficient LLMs need to still maintain a high level of accuracy? (later?)
 
 Multipolarity
-*Inner PRTG SD – is this larger for items with multipolarity; is accuracy impacted by multipolarity  - think approaches to experiment
-is low confidence correlated to high multipolarity? new formula
+
+lower confidence means higher ambiquity in the user's explanations; higher confidence gives the product review owner a higher confidence in the results
+higher inner PRTG SD by itself indicates multipolarity
+
+tests: Ziyad ideas
+that indicate review data to be used for user marketing
+or for product improvement
+
+also run through a LLM asking it to generate marketing messages and images; as well as ideas for product improvement
+
+*Inner PRTG SD – is larger for items with multipolarity; yes. 
+is accuracy impacted by multipolarity  - think approaches to experiment MAD
+is low confidence correlated to high multipolarity? no because high multiplarity needs all 5 to go into a formulat to calculate multiplarity; and confidnece is just done one at a time.
+
+test: use the PRTG confidence value; along with the inner-PRTG SD - now look at correlation and scatter plot
+
 
 *MAD and MSD – how far off – is it off farther for items that have multipolarity
 
