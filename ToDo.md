@@ -2,13 +2,15 @@ To Do List:
 
 Run data both as Avg 5 and as a PRTG (for user's full response of 5 words and explanations)  on GPT5o-mini (do 3 runs each time) ; done 6.9.26
 
-put both code and results in github
+put both code and results in github done 7.16.26
 
 Run data both as Avg 5 and as a PRTG (for user's full response of 5 words and explanations)  on Gemini-Flash (do 3 runs each time)
-Update the documentation on GitHub
+Update the documentation on GitHub 7.16.26
 
 
 SURF RQ1) Can ensembles of cost-efficient LLMs produce high quality numerical sentiment analysis, along with high quality explanations?
+
+we were able to get quality results with each LLM singularly, so decided ot not use ensembles.
 
 keep track of costs: input and output tokens; $; time to run; dates of runs; model number of LLM
 
@@ -28,12 +30,13 @@ gold standard, ID #, answer from gpt5.4mini (average of 3 runs), gemini 3.1 flas
 ---DONE
 
 
-columns that Sherri will add - Mean Absolute Diffierence, Mean squared Difference between gold standard and each tool, StDev, Pierson Coefficient, t-score; average  (Perhaps Not?)
+columns that Sherri will add - Mean Absolute Diffierence, Mean squared Difference Ziyad did: between gold standard and each tool, StDev, Pierson Coefficient, t-score; average  
 
 
-Preform T-tests on all statistics
+Preform T-tests on all statistics - done 7.16.26
 
-UI dev
+UI dev - 7.16.26
+add installation and usage - creating csv instructions
 
 Run all data on high-level LLMs
 
@@ -41,9 +44,10 @@ Make Sheet with comparison data
 
 Find patterns
 
-Ensamble approach? Correlation between confidence and Multipolarity?
+Ensamble approach? 
+Correlation between confidence and Multipolarity?
 
-
+correlation and built a function to quantify H, M, Ls 
 
 
 
