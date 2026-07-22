@@ -38,18 +38,33 @@ Preform T-tests on all statistics - done 7.16.26
 UI dev - 7.16.26
 add installation and usage - creating csv instructions
 
-Run all data on high-level LLMs
+
 
 Make Sheet with comparison data 
 
 Find patterns
 
-Ensamble approach? 
+
 Correlation between confidence and Multipolarity?
+--- LOW
 
 correlation and built a function to quantify H, M, Ls 
+--- DONE
 
+------------------------------------------------------------------------- DONE -----------------------------------------------------------------------------------
+Fix Accuracy rating Using MAD instead of STDev
 
+Fix Confidence Ratings
+
+Run all data on high-level LLMs
+
+Update Github
+
+Deploy on HuggingFace
+
+Marketing Messages
+
+Ensamble Approach
 
 ---
 extract the samples based records that do not have consistent high confidence - focus - 
