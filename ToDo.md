@@ -66,6 +66,8 @@ Marketing Messages
 
 Ensamble Approach
 
+V1 of Poster Board
+
 ---
 extract the samples based records that do not have consistent high confidence - focus - 
 
