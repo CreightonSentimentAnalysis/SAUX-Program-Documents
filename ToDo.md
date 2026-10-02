@@ -50,8 +50,9 @@ Correlation between confidence and Multipolarity?
 
 correlation and built a function to quantify H, M, Ls 
 --- DONE
+-----------------------
+V1 of Poster Board --- DONE
 
-------------------------------------------------------------------------- DONE -----------------------------------------------------------------------------------
 Fix Accuracy rating Using MAD instead of STDev
 
 Fix Confidence Ratings
@@ -62,11 +63,19 @@ Update Github
 
 Deploy on HuggingFace
 
+-----------------------
+------------------------------------------------------------------------- DONE -----------------------------------------------------------------------------------
+
+Automating data cleaning and averaging
+
 Marketing Messages
+
+Local AI
+
+Dimensionality
 
 Ensamble Approach
 
-V1 of Poster Board
 
 ---
 extract the samples based records that do not have consistent high confidence - focus - 
