@@ -61,20 +61,24 @@ Run all data on high-level LLMs
 
 Update Github
 
-Deploy on HuggingFace
+Deploy on HuggingFace - put link to it here
 
 -----------------------
 ------------------------------------------------------------------------- DONE -----------------------------------------------------------------------------------
 
+Local AI - for IEEE Access paper
+
+try the synthesized data https://zenodo.org/records/14188456
+as well - for scaling purposes - on several models
+
+
 Automating data cleaning and averaging
 
-Marketing Messages
+Marketing Messages/suggestions for improvements - new conference paper
 
-Local AI
+Dimensionality- new conference paper
 
-Dimensionality
-
-Ensamble Approach
+Ensemble Approach - perhaps needed for local AI
 
 
 ---
