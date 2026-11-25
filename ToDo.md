@@ -68,6 +68,20 @@ Deploy on HuggingFace - put link to it here
 
 Local AI - for IEEE Access paper
 
+Run 32 runs of Local LLM for each model (llama3.2, quen3.5:4b, phi3:3.8b, gemma3:4b) On CARMA and ZORQ
+- Llama3.2
+-  CARMA
+-       Agg
+-       PRTG
+-   ZORQ
+-       Agg
+-       PRTG
+
+Repeat for rest
+-  
+- Two datasets that did best on small machine, experiment with temperature settings (2 types)
+- 
+
 try the synthesized data https://zenodo.org/records/14188456
 as well - for scaling purposes - on several models
 
